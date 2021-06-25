@@ -1,4 +1,4 @@
-import './styles.css';
+import './sass/main.scss';
 import menuItems from './menu.json';
 import foodServiceCards from './templates/food-service.hbs';
 
